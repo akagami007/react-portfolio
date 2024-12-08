@@ -82,16 +82,16 @@ const Navbar = () => {
             <div className="relative w-9 h-9 sm:w-10 sm:h-10 rounded-xl bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 p-[1px] overflow-hidden transition-transform duration-300 group-hover:scale-110">
               <div className="w-full h-full rounded-xl bg-white dark:bg-slate-900 flex items-center justify-center">
                 <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-purple-500 font-bold text-lg sm:text-xl">
-                  LA
+                  SC
                 </span>
               </div>
             </div>
             <div className="flex flex-col">
               <span className="text-base sm:text-lg font-semibold bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 bg-clip-text text-transparent">
-                Lahiru Anushka
+                Stefan Cornelius
               </span>
               <span className="text-xs sm:text-sm text-gray-600 dark:text-gray-400">
-                Software Engineer
+                Web Developer | Quality Assurance
               </span>
             </div>
           </Link>

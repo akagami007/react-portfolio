@@ -182,11 +182,11 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Trainee Software Engineer",
-    company_name: "DSP Engineering Solutions",
+    title: "Quality Assurance",
+    company_name: "PT Infosys Solusi Terpadu",
     icon: dsp,
     iconBg: "#383E56",
-    date: "November 2023 - June 2024",
+    date: "Juni 2022 - Now",
     points: [
       "Gained hands-on experience in software application development and improvement",
       "Worked on OPC UA servers and clients, gaining knowledge of secure and reliable machine-to-machine communication",
@@ -200,9 +200,9 @@ const experiences = [
 const educationDetails = [
   {
     institute:
-      "Sri Lanka Institute of Advanced Technological Education (SLIATE) - Kandy",
-    course: "Higher National Diploma in Information Technology (HNDIT)",
-    duration: "2021 - 2024",
+      "Universitas Teknologi Digital Indonesia (UTDI) - Faculty of Information Technology",
+    course: "S1 (Teknik Informatika)",
+    duration: "2014 - 2021",
     icon: sliatelogo,
     achievements: [
       "Gained strong foundational knowledge in software development and IT technologies.",
@@ -210,9 +210,9 @@ const educationDetails = [
     ],
   },
   {
-    institute: "Walala A. Rathnayake Central College",
-    course: "Advanced Level (Engineering Technology Stream)",
-    duration: "2011 - 2019",
+    institute: "SMK Pembangunan Jaya - YAKAPI",
+    course: "Teknik Komputer & Jaringan",
+    duration: "2011 - 2014",
     icon: arcclogo,
     achievements: [
       "Excelled in Engineering Technology and related subjects.",

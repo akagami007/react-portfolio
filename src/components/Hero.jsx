@@ -21,13 +21,14 @@ const Hero = () => {
               transition={{ duration: 0.8, delay: 0.2 }}
             >
               Hi, I&apos;m{" "}
-              <span className="text-[#915EFF]">Lahiru Anushka</span>
+              <span className="text-[#915EFF]">Stefan Cornelius</span>
             </motion.h1>
             <p
               className={`${styles.heroSubText} mt-4 text-white-100 text-base sm:text-lg md:text-xl max-w-md`}
             >
-              I develop desktop and web applications with a passion for creating
-              innovative and user-friendly solutions
+              Saya seorang Web Developer yang memiliki pengetahuan yang luas tentang
+              teknologi dan pengembangan web. Saya memiliki pengalaman dalam
+              mengembangkan aplikasi web dan website yang berkualitas tinggi.
             </p>
           </motion.div>
 
@@ -48,8 +49,8 @@ const Hero = () => {
                 relative z-10 bg-white p-1 overflow-hidden"
               >
                 <img
-                  src="/lahiru-anushka.png"
-                  alt="Lahiru Anushka"
+                  // src="/lahiru-anushka.png"
+                  alt="Stefan Cornelius"
                   className="w-full h-full rounded-full object-cover object-center"
                 />
               </div>

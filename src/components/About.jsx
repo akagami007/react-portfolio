@@ -163,12 +163,9 @@ const About = () => {
 
             {/* Text content */}
             <span className="relative z-10 block">
-              I am an IT graduate from SLIATE, having completed my coursework
-              with graduation pending. During my internship as a trainee
-              Software Engineer, I gained valuable hands-on experience in
-              software development, which solidified my passion for creating
-              dynamic, innovative digital solutions that balance creativity with
-              functionality.
+              Saya Web Developer yang memiliki pengetahuan yang luas tentang
+              teknologi dan pengembangan web. Saya memiliki pengalaman dalam
+              mengembangkan aplikasi web dan website yang berkualitas tinggi.
             </span>
           </div>
         </motion.p>
